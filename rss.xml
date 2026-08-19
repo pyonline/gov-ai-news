@@ -6,15 +6,7 @@
     <atom:link href="https://pyonline.github.io/gov-ai-news/rss.xml" rel="self" type="application/rss+xml"/>
     <description>每日聚合中国政府部门人工智能相关新闻与政策，重点关注自然资源管理领域</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 18 Aug 2026 08:57:39 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 08:54:10 +0800</lastBuildDate>
     <generator>gov-ai-news skill</generator>
-    <item>
-      <title>2026年度国土空间规划实施监测与动态维护智能化支撑应用竞争性磋商公告</title>
-      <link>https://www.jrzb.com/purchases/2026-08-14.28d40275ab2389ee71d96dfcfa083b6d</link>
-      <guid isPermaLink="true">https://www.jrzb.com/purchases/2026-08-14.28d40275ab2389ee71d96dfcfa083b6d</guid>
-      <category>自然资源 · AI</category>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 +0800</pubDate>
-      <description>全国招标采购信息服务平台（jrzb.com）：发布「2026年度国土空间规划实施监测与动态维护智能化支撑应用」竞争性磋商公告，围绕国土空间规划的智能化监测与动态维护支撑能力开展采购。</description>
-    </item>
   </channel>
 </rss>
