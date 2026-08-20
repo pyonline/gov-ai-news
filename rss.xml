@@ -6,7 +6,23 @@
     <atom:link href="https://pyonline.github.io/gov-ai-news/rss.xml" rel="self" type="application/rss+xml"/>
     <description>每日聚合中国政府部门人工智能相关新闻与政策，重点关注自然资源管理领域</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 19 Aug 2026 08:54:10 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 09:09:23 +0800</lastBuildDate>
     <generator>gov-ai-news skill</generator>
+    <item>
+      <title>北京经济技术开发区信息技术产业局关于开展2026年人工智能行业大模型应用落地支持申报的通知</title>
+      <link>https://www.ncsti.gov.cn/zcfg/zcwj/202608/t20260818_253858.html</link>
+      <guid isPermaLink="true">https://www.ncsti.gov.cn/zcfg/zcwj/202608/t20260818_253858.html</guid>
+      <category>地方政府 · AI 落地</category>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0800</pubDate>
+      <description>北京经济技术开发区信息技术产业局：北京经开区开展2026年人工智能行业大模型应用落地支持申报，推动区域AI原生产业创新发展（申报期至2026年8月19日）。</description>
+    </item>
+    <item>
+      <title>數字辦舉辦「『AI+』政務：業界如何助力政府重塑公共服務思維」交流活動（附圖）</title>
+      <link>https://www.info.gov.hk/gia/general/202608/17/P2026081700343.htm</link>
+      <guid isPermaLink="true">https://www.info.gov.hk/gia/general/202608/17/P2026081700343.htm</guid>
+      <category>地方政府 · AI 落地</category>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0800</pubDate>
+      <description>香港政府新闻公报（数字政策办公室）：香港特区政府数字政策办公室举办『AI+』政务交流活动，探讨业界如何助力政府以人工智能重塑公共服务、推动數智化转型。</description>
+    </item>
   </channel>
 </rss>
