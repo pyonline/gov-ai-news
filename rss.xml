@@ -6,7 +6,15 @@
     <atom:link href="https://pyonline.github.io/gov-ai-news/rss.xml" rel="self" type="application/rss+xml"/>
     <description>每日聚合中国政府部门人工智能相关新闻与政策，重点关注自然资源管理领域</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 21 Aug 2026 09:07:39 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 09:06:25 +0800</lastBuildDate>
     <generator>gov-ai-news skill</generator>
+    <item>
+      <title>从“会聊天”到“能办事”，政务AI迈出关键一步</title>
+      <link>https://www.peopleapp.com/column/30052978582-500007660944</link>
+      <guid isPermaLink="true">https://www.peopleapp.com/column/30052978582-500007660944</guid>
+      <category>地方政府 · AI 落地</category>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0800</pubDate>
+      <description>人民日报：人民日报报道政务AI从“会聊天”到“能办事”的关键进展：广东发布“湾擎”政务智能旗舰应用，深圳推出2026年政务领域人工智能应用场景清单（第一批，15个场景），哈尔滨上线7×24小时AI政务官“北北”；并引用中央网信办、国家发改委《政务领域人工智能大模型部署应用指引》。</description>
+    </item>
   </channel>
 </rss>
