@@ -6,7 +6,47 @@
     <atom:link href="https://pyonline.github.io/gov-ai-news/rss.xml" rel="self" type="application/rss+xml"/>
     <description>每日聚合中国政府部门人工智能相关新闻与政策，重点关注自然资源管理领域</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 24 Aug 2026 09:04:20 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 09:09:46 +0800</lastBuildDate>
     <generator>gov-ai-news skill</generator>
+    <item>
+      <title>云南省自然资源厅 云南省数据局关于开展2026年实景三维数据赋能高质量发展创新应用典型案例征集工作的通知</title>
+      <link>https://dnr.yn.gov.cn/html/2026/tongzhigonggao_0820/4053604.html</link>
+      <guid isPermaLink="true">https://dnr.yn.gov.cn/html/2026/tongzhigonggao_0820/4053604.html</guid>
+      <category>自然资源 · AI</category>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0800</pubDate>
+      <description>云南省自然资源厅：依据自然资源部办公厅、国家数据局综合司《自然资办函〔2026〕1264号》要求，面向全省征集实景三维创新应用典型案例。明确支持向“动态更新+智能赋能”迭代：鼓励依托无人机智能机巢、多源感知设备实现模型快速更新，融合人工智能大模型、智能识别等技术，实现隐患自动排查、方案智能推演、数据精准分析；并关注算力适配度与政务系统对接能力。9月1日前报送，9月下旬报自然资源部、国家数据局遴选。</description>
+    </item>
+    <item>
+      <title>中国自然资源报 | 时空地理信息中试基地多项成果重磅发布</title>
+      <link>https://www.mgslab.ac.cn/result/detail/id/10006.html</link>
+      <guid isPermaLink="true">https://www.mgslab.ac.cn/result/detail/id/10006.html</guid>
+      <category>自然资源 · AI</category>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0800</pubDate>
+      <description>中国自然资源报 / 莫干山地信实验室：国家人工智能应用中试基地（能源资源领域时空地理信息方向）在浙江德清揭牌，由自然资源部与浙江省人民政府共同谋划。行业首个千亿参数多模态地理空间大模型“莫干·玄衍”上线运行，具备三维生成、遥感解译、地图诊断、时空分析等八大能力，地图诊断查准率超90%，已适配阿里云PPU与华为昇腾910C。同时发布地理空间智能服务平台（公众版）、百万级遥感标签与万级三维建筑数据集，以及实景三维生产更新、灾害现场重建两款场景智能体（后者已接入浙江省应急管理厅）。陕西、黑龙江、四川、海南测绘地理信息局等六家单位获授“基地数据标注中心”。</description>
+    </item>
+    <item>
+      <title>生态环境部：将加强人工智能预测模型应用</title>
+      <link>https://www.szzg.gov.cn/2026/xwzx/szkx/202608/t20260818_5360226.htm</link>
+      <guid isPermaLink="true">https://www.szzg.gov.cn/2026/xwzx/szkx/202608/t20260818_5360226.htm</guid>
+      <category>中央与部委 · AI 政策</category>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0800</pubDate>
+      <description>数字中国建设峰会（人民邮电报）：国务院新闻办“开局起步‘十五五’”发布会上，生态环境部副部长董保同介绍：“十五五”将聚焦监测与执法两大领域推进数智化转型。目标到2030年国家生态环境监测网重点业务领域人工参与度下降70%、效率提升5倍以上；大气领域加强人工智能预测模型应用，全国72小时PM2.5超标天预报准确率提高到80%以上；水领域组建海洋无人船编队；固废领域利用米级、亚米级卫星常态化遥感监测。执法方面构建全流程智慧执法体系，整合卫星遥感、自动监控数据用AI与大数据分析精准发现问题线索。</description>
+    </item>
+    <item>
+      <title>黑龙江省发展和改革委员会关于征集2026年人工智能标杆示范场景指南的通知</title>
+      <link>https://drc.hlj.gov.cn/drc/c111433/202608/c00_31968386.shtml</link>
+      <guid isPermaLink="true">https://drc.hlj.gov.cn/drc/c111433/202608/c00_31968386.shtml</guid>
+      <category>地方政府 · AI 落地</category>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0800</pubDate>
+      <description>黑龙江省发展和改革委员会：为落实《黑龙江省深入实施“人工智能+”行动的实施方案》（黑政规〔2026〕1号），公开征集人工智能标杆示范场景指南。征集方向包括“人工智能+”农业、制造、能源、文旅、消费、就业、教育、医疗卫生、交通运输、低空经济、社会治理、生态保护等，以及算电协同、创新平台、开源生态、安全体系等支撑能力。要求场景以AI技术为主导、实现核心功能；牵头单位须为省内独立法人企事业单位；在建项目开工时间原则上在2026年2月之后。各市（地）发改委9月8日前汇总报送。</description>
+    </item>
+    <item>
+      <title>一周园区要闻盘点〔144〕丨银河通用具身智能大模型北京市重点实验室落地海淀园；海淀智谷中试港规划正式亮相</title>
+      <link>https://www.ncsti.gov.cn/kjdt/yqdy/yqdt/202608/t20260818_253852.html</link>
+      <guid isPermaLink="true">https://www.ncsti.gov.cn/kjdt/yqdy/yqdt/202608/t20260818_253852.html</guid>
+      <category>地方政府 · AI 落地</category>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0800</pubDate>
+      <description>首都科技创新服务平台（北京市科委、中关村管委会）：银河通用具身智能大模型北京市重点实验室在海淀园挂牌，由北京银河通用机器人牵头，联合北京大学、宁德时代共建，14位中外院士专家出席；北京五环内首个具身智能中试平台“无界动力中试平台”在海淀区具身智能创新产业园落成。政策方面，市科委、中关村管委会发布北京市重点实验室科研项目征集，重点扶持AI4S、科研智能体、文化大模型智能体等赛道；另发布落实人工智能赋能科学研究实施方案的自主实验室方向储备课题征集。</description>
+    </item>
   </channel>
 </rss>
