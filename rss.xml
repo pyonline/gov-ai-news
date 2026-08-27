@@ -6,7 +6,15 @@
     <atom:link href="https://pyonline.github.io/gov-ai-news/rss.xml" rel="self" type="application/rss+xml"/>
     <description>每日聚合中国政府部门人工智能相关新闻与政策，重点关注自然资源管理领域</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 26 Aug 2026 09:08:24 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 09:07:57 +0800</lastBuildDate>
     <generator>gov-ai-news skill</generator>
+    <item>
+      <title>我国人工智能已基本贯穿研发设计、生产制造、质检运维等全链条</title>
+      <link>https://www.news.cn/politics/20260826/54371d7fe1614bb5aab3a16320341a8b/c.html</link>
+      <guid isPermaLink="true">https://www.news.cn/politics/20260826/54371d7fe1614bb5aab3a16320341a8b/c.html</guid>
+      <category>中央与部委 · AI 政策</category>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0800</pubDate>
+      <description>新华网（国务院新闻办 / 工业和信息化部）：8月26日国务院新闻办举行“开局起步‘十五五’”系列主题新闻发布会，工业和信息化部副部长辛国斌表示，我国人工智能已基本贯穿研发设计、生产制造、质检运维等全链条，加速产业“智”变升级，并通过实景实训让机器人在生产制造、应急救援、餐饮服务等场景开启“作业模式”。</description>
+    </item>
   </channel>
 </rss>
