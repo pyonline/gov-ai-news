@@ -6,15 +6,15 @@
     <atom:link href="https://pyonline.github.io/gov-ai-news/rss.xml" rel="self" type="application/rss+xml"/>
     <description>每日聚合中国政府部门人工智能相关新闻与政策，重点关注自然资源管理领域</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 27 Aug 2026 09:07:57 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 09:14:16 +0800</lastBuildDate>
     <generator>gov-ai-news skill</generator>
     <item>
-      <title>我国人工智能已基本贯穿研发设计、生产制造、质检运维等全链条</title>
-      <link>https://www.news.cn/politics/20260826/54371d7fe1614bb5aab3a16320341a8b/c.html</link>
-      <guid isPermaLink="true">https://www.news.cn/politics/20260826/54371d7fe1614bb5aab3a16320341a8b/c.html</guid>
-      <category>中央与部委 · AI 政策</category>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0800</pubDate>
-      <description>新华网（国务院新闻办 / 工业和信息化部）：8月26日国务院新闻办举行“开局起步‘十五五’”系列主题新闻发布会，工业和信息化部副部长辛国斌表示，我国人工智能已基本贯穿研发设计、生产制造、质检运维等全链条，加速产业“智”变升级，并通过实景实训让机器人在生产制造、应急救援、餐饮服务等场景开启“作业模式”。</description>
+      <title>人工智能深度驱动空间精细化治理</title>
+      <link>https://www.iziran.net/news.html?aid=5491610</link>
+      <guid isPermaLink="true">https://www.iziran.net/news.html?aid=5491610</guid>
+      <category>自然资源 · AI</category>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0800</pubDate>
+      <description>中国自然资源报：报道8月20日上海举办的国土空间规划UP前沿论道业务交流会，聚焦AI时代国土空间信息模型（TIM）智能化构建。自然资源部鼓励大模型、智能体在TIM构建与数据治理中应用，推动“一张图”智能化升级，支撑国土空间精细化治理。</description>
     </item>
   </channel>
 </rss>
