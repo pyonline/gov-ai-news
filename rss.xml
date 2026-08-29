@@ -6,15 +6,31 @@
     <atom:link href="https://pyonline.github.io/gov-ai-news/rss.xml" rel="self" type="application/rss+xml"/>
     <description>每日聚合中国政府部门人工智能相关新闻与政策，重点关注自然资源管理领域</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 28 Aug 2026 09:14:16 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 09:05:52 +0800</lastBuildDate>
     <generator>gov-ai-news skill</generator>
     <item>
-      <title>人工智能深度驱动空间精细化治理</title>
-      <link>https://www.iziran.net/news.html?aid=5491610</link>
-      <guid isPermaLink="true">https://www.iziran.net/news.html?aid=5491610</guid>
+      <title>自然资源部例行新闻发布会介绍测绘地理信息工作有关情况（实录）-政务访谈</title>
+      <link>http://zrzy.gansu.gov.cn/zrzy/c107699/202608/174384864.shtml</link>
+      <guid isPermaLink="true">http://zrzy.gansu.gov.cn/zrzy/c107699/202608/174384864.shtml</guid>
       <category>自然资源 · AI</category>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 +0800</pubDate>
-      <description>中国自然资源报：报道8月20日上海举办的国土空间规划UP前沿论道业务交流会，聚焦AI时代国土空间信息模型（TIM）智能化构建。自然资源部鼓励大模型、智能体在TIM构建与数据治理中应用，推动“一张图”智能化升级，支撑国土空间精细化治理。</description>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0800</pubDate>
+      <description>甘肃省自然资源厅（来源：自然资源部）：自然资源部2026年8月份例行新闻发布会实录：强调推进“人工智能+时空信息”行动，构建时空三维智能体、行业大模型，利用大数据与人工智能技术提升变化快速发现能力，提升实景三维中国建设质效。</description>
+    </item>
+    <item>
+      <title>自然资源部例行新闻发布会介绍测绘地理信息工作有关情况</title>
+      <link>https://www.iziran.net/news.html?aid=5492308</link>
+      <guid isPermaLink="true">https://www.iziran.net/news.html?aid=5492308</guid>
+      <category>自然资源 · AI</category>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0800</pubDate>
+      <description>中国自然资源报：8月27日，自然资源部召开2026年8月份例行新闻发布会，介绍第23个全国测绘法宣传日暨国家版图意识宣传周有关情况，提出促进地理信息与人工智能深度融合，加速推动地理信息产品、技术和应用智能化升级。</description>
+    </item>
+    <item>
+      <title>济南市工业和信息化局等13部门关于印发《济南市实施“人工智能+制造”行动方案（2026—2028年）》的通知</title>
+      <link>https://www.jinan.gov.cn/api-gateway/jpaas-jpolicy-web-server/front/info/detail?iid=69aa6d3d3c3f4c6f9d228ffcda9d1a50</link>
+      <guid isPermaLink="true">https://www.jinan.gov.cn/api-gateway/jpaas-jpolicy-web-server/front/info/detail?iid=69aa6d3d3c3f4c6f9d228ffcda9d1a50</guid>
+      <category>地方政府 · AI 落地</category>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0800</pubDate>
+      <description>济南市工业和信息化局：济南市13部门联合印发“人工智能+制造”行动方案（2026—2028年），提出到2028年打造40个以上工业大模型与智能体、推广30个以上典型应用场景，开展“模数共振”行动，全方位赋能新型工业化。</description>
     </item>
   </channel>
 </rss>
