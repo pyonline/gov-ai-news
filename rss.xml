@@ -6,7 +6,15 @@
     <atom:link href="https://pyonline.github.io/gov-ai-news/rss.xml" rel="self" type="application/rss+xml"/>
     <description>每日聚合中国政府部门人工智能相关新闻与政策，重点关注自然资源管理领域</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 02 Sep 2026 09:05:47 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 09:07:17 +0800</lastBuildDate>
     <generator>gov-ai-news skill</generator>
+    <item>
+      <title>工业和信息化部办公厅关于开展人工智能应用服务商培育专项行动的通知</title>
+      <link>https://gxj.gz.gov.cn/gkmlpt/content/10/10985/post_10985532.html</link>
+      <guid isPermaLink="true">https://gxj.gz.gov.cn/gkmlpt/content/10/10985/post_10985532.html</guid>
+      <category>中央与部委 · AI 政策</category>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0800</pubDate>
+      <description>工业和信息化部办公厅：工信部办公厅印发通知（工信厅科函〔2026〕414号），组织开展人工智能应用服务商培育专项行动，目标到2026年底全国服务商资源池突破2000家、2027年底不少于3000家；重点建立服务商资源池、提升供给水平、推动规模化应用，并探索加大大模型、智能体、Token等服务采购力度。</description>
+    </item>
   </channel>
 </rss>
