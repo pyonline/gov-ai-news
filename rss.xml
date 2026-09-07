@@ -6,39 +6,7 @@
     <atom:link href="https://pyonline.github.io/gov-ai-news/rss.xml" rel="self" type="application/rss+xml"/>
     <description>每日聚合中国政府部门人工智能相关新闻与政策，重点关注自然资源管理领域</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 06 Sep 2026 09:06:50 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 09:11:58 +0800</lastBuildDate>
     <generator>gov-ai-news skill</generator>
-    <item>
-      <title>打开未来五年上海城市空间 《上海市国土空间近期实施规划（2026—2030年）》发布</title>
-      <link>https://www.shanghai.gov.cn/nw4411/20260905/299daf8d01b345a8964cb7862c2a4e96.html</link>
-      <guid isPermaLink="true">https://www.shanghai.gov.cn/nw4411/20260905/299daf8d01b345a8964cb7862c2a4e96.html</guid>
-      <category>自然资源 · AI</category>
-      <pubDate>Sat, 05 Sep 2026 00:00:00 +0800</pubDate>
-      <description>上海市人民政府门户网站：上海市发布《国土空间近期实施规划（2026—2030年）》，设专章推进“AI+城市治理”，构建城市运行与治理智能中枢，开展城市空间治理大模型研发，深化量子城市空间智能建设、推进复兴岛具身智能实景空间实验实训实测平台建设。</description>
-    </item>
-    <item>
-      <title>测绘科学与工程自然资源部重点实验室开放基金课题2026年度申请指南</title>
-      <link>https://casm.ac.cn/xxgk/tzgg/202609/03/244352.html</link>
-      <guid isPermaLink="true">https://casm.ac.cn/xxgk/tzgg/202609/03/244352.html</guid>
-      <category>自然资源 · AI</category>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0800</pubDate>
-      <description>中国测绘科学研究院（自然资源部直属）：自然资源部重点实验室发布2026年度开放基金课题指南，资助方向涵盖智能大地测量与综合PNT、全域遥感与智能处理、基于人工智能的自然资源要素提取与监测、跨模态地理实体知识建模与智能分析、人工智能与地理空间大数据认知等。</description>
-    </item>
-    <item>
-      <title>深圳市推动人工智能与应用发展行动计划（2026—2028年）</title>
-      <link>https://gxj.sz.gov.cn/gkmlpt/content/12/12967/post_12967636.html</link>
-      <guid isPermaLink="true">https://gxj.sz.gov.cn/gkmlpt/content/12/12967/post_12967636.html</guid>
-      <category>地方政府 · AI 落地</category>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0800</pubDate>
-      <description>深圳市工业和信息化局：深圳市印发《推动人工智能与应用发展行动计划（2026—2028年）》，提出到2028年人工智能核心产业规模超3000亿元，部署“人工智能+科研/产业/消费/民生/治理/全球合作”六大任务，覆盖工业智能体、政务服务智能体、城市治理大模型等场景。</description>
-    </item>
-    <item>
-      <title>北京市商务局等6部门关于印发《进一步提升居家照护服务质量 推进家政服务业健康发展工作实施方案》的通知</title>
-      <link>https://www.beijing.gov.cn/zhengce/zhengcefagui/202609/t20260905_4851778.html</link>
-      <guid isPermaLink="true">https://www.beijing.gov.cn/zhengce/zhengcefagui/202609/t20260905_4851778.html</guid>
-      <category>地方政府 · AI 落地</category>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0800</pubDate>
-      <description>北京市人民政府门户网站：北京市商务局等6部门印发提升居家照护服务质量实施方案，提出发展数智化家政服务新场景，运用大数据与人工智能开展用户画像与精准服务，鼓励研发养老照护机器人、情感陪伴机器人、智能可穿戴设备等智能产品，探索“人机协同”新模式。</description>
-    </item>
   </channel>
 </rss>
