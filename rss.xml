@@ -6,7 +6,7 @@
     <atom:link href="https://pyonline.github.io/gov-ai-news/rss.xml" rel="self" type="application/rss+xml"/>
     <description>每日聚合中国政府部门人工智能相关新闻与政策，重点关注自然资源管理领域</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 07 Sep 2026 09:11:58 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 09:07:33 +0800</lastBuildDate>
     <generator>gov-ai-news skill</generator>
   </channel>
 </rss>
