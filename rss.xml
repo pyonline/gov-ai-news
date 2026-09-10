@@ -6,15 +6,7 @@
     <atom:link href="https://pyonline.github.io/gov-ai-news/rss.xml" rel="self" type="application/rss+xml"/>
     <description>每日聚合中国政府部门人工智能相关新闻与政策，重点关注自然资源管理领域</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 09 Sep 2026 09:08:54 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 09:10:53 +0800</lastBuildDate>
     <generator>gov-ai-news skill</generator>
-    <item>
-      <title>促进数字化绿色化协同转型发展实施方案（2026—2030年）</title>
-      <link>https://www.hunan.gov.cn/zqt/zcsd/202609/t20260907_34058327.html</link>
-      <guid isPermaLink="true">https://www.hunan.gov.cn/zqt/zcsd/202609/t20260907_34058327.html</guid>
-      <category>中央与部委 · AI 政策</category>
-      <pubDate>Mon, 07 Sep 2026 00:00:00 +0800</pubDate>
-      <description>湖南省人民政府门户网站（来源：国家互联网信息办公室）：中央网信办会同国家发展改革委、工业和信息化部、生态环境部、住房城乡建设部、农业农村部、商务部等部门印发。明确到2030年人工智能低成本、高效率优势更加彰显，深度赋能绿色低碳技术创新和产业发展；统筹布局通用大模型、行业大模型和智能体，推动算力设施绿色低碳发展、生态环境智能化治理、城市运行数字化绿色化。</description>
-    </item>
   </channel>
 </rss>
