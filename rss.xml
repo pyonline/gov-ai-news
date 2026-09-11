@@ -6,7 +6,31 @@
     <atom:link href="https://pyonline.github.io/gov-ai-news/rss.xml" rel="self" type="application/rss+xml"/>
     <description>每日聚合中国政府部门人工智能相关新闻与政策，重点关注自然资源管理领域</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 10 Sep 2026 09:10:53 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 09:18:07 +0800</lastBuildDate>
     <generator>gov-ai-news skill</generator>
+    <item>
+      <title>江门市人工智能赋能千行百业高质量发展工作方案（2026—2027年）</title>
+      <link>http://www.jiangmen.gov.cn/newzwgk/zcjd/tjzc/content/post_3549530.html</link>
+      <guid isPermaLink="true">http://www.jiangmen.gov.cn/newzwgk/zcjd/tjzc/content/post_3549530.html</guid>
+      <category>地方政府 · AI 落地</category>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0800</pubDate>
+      <description>江门市人民政府：江门出台AI赋能千行百业工作方案（2026—2027年），围绕工业制造、农业、服务业、城市治理、民生福祉五大领域部署AI应用，建设“江智能”线上赋能平台，培育10个垂类场景模型、打造100个AI应用示范案例。</description>
+    </item>
+    <item>
+      <title>市人民政府关于印发推进科技创新和产业创新深度融合系列措施的通知</title>
+      <link>https://www.wuhan.gov.cn/zwgk/xxgk/zfwj/gfxwj/202609/t20260908_2845066.shtml</link>
+      <guid isPermaLink="true">https://www.wuhan.gov.cn/zwgk/xxgk/zfwj/gfxwj/202609/t20260908_2845066.shtml</guid>
+      <category>地方政府 · AI 落地</category>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0800</pubDate>
+      <description>武汉市人民政府：武汉印发武政规〔2026〕6号，捆绑6项措施，其中含《支持智能体和智能终端发展的若干措施》《促进行业高质量数据集建设应用的若干措施》等AI专项，对智能体/智能终端研发、模型训练数据集等给予最高千万元奖补。</description>
+    </item>
+    <item>
+      <title>市工业和信息化局关于公布2026年模型服务机构新增入库名单的通知</title>
+      <link>https://www.sz.gov.cn/szzt2010/wgkzl/jcgk/jcygk/zdzcjc/content/post_12968819.html</link>
+      <guid isPermaLink="true">https://www.sz.gov.cn/szzt2010/wgkzl/jcgk/jcygk/zdzcjc/content/post_12968819.html</guid>
+      <category>地方政府 · AI 落地</category>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0800</pubDate>
+      <description>深圳市工业和信息化局：深圳公布2026年模型服务机构新增入库名单（4家），依据《打造人工智能先锋城市项目扶持计划操作规程》，为模型券申请单位开展模型服务、智能体开发应用等提供支持。</description>
+    </item>
   </channel>
 </rss>
