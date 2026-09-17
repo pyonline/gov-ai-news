@@ -6,15 +6,15 @@
     <atom:link href="https://pyonline.github.io/gov-ai-news/rss.xml" rel="self" type="application/rss+xml"/>
     <description>每日聚合中国政府部门人工智能相关新闻与政策，重点关注自然资源管理领域</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 16 Sep 2026 09:12:24 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 09:13:18 +0800</lastBuildDate>
     <generator>gov-ai-news skill</generator>
     <item>
-      <title>关于发布生成式人工智能服务已备案信息的公告（2026年7月至8月）</title>
-      <link>https://www.hunan.gov.cn/zqt/zcsd/202609/t20260915_34064759.html</link>
-      <guid isPermaLink="true">https://www.hunan.gov.cn/zqt/zcsd/202609/t20260915_34064759.html</guid>
-      <category>中央与部委 · AI 政策</category>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 +0800</pubDate>
-      <description>国家互联网信息办公室（湖南省人民政府门户转载）：网信办会同有关部门按《生成式人工智能服务管理暂行办法》持续开展备案工作。2026年7—8月新增124款生成式人工智能服务完成备案（含7款手机端侧服务）、133款应用或功能完成登记；截至8月31日累计1112款备案、731款登记。公告要求已上线应用公示所用已备案或登记服务情况。</description>
+      <title>湖北利川积极开展“天空地网”一体化调查监测示范工程——以科技慧眼实现“数治山河”</title>
+      <link>http://zrzyt.hubei.gov.cn/bmdt/sxdt/202609/t20260916_6015229.shtml</link>
+      <guid isPermaLink="true">http://zrzyt.hubei.gov.cn/bmdt/sxdt/202609/t20260916_6015229.shtml</guid>
+      <category>自然资源 · AI</category>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0800</pubDate>
+      <description>中国自然资源报 / 湖北省自然资源厅：利川市启动“天空地网”一体化调查监测示范工程，依托自主遥感卫星、低空无人机网络与本地化 AI 智能识别体系，构建“天上看、空中拍、地上查、网上管、智能判”立体化监测监管链条；AI 前置筛查海量影像、自动过滤无效图斑，服务耕地保护、矿山管控、生态红线守护与地质灾害防范，推动自然资源管护由“人找问题”向“数据找问题”转变。</description>
     </item>
   </channel>
 </rss>
