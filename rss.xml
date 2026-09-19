@@ -6,39 +6,15 @@
     <atom:link href="https://pyonline.github.io/gov-ai-news/rss.xml" rel="self" type="application/rss+xml"/>
     <description>每日聚合中国政府部门人工智能相关新闻与政策，重点关注自然资源管理领域</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 18 Sep 2026 09:11:20 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 09:10:10 +0800</lastBuildDate>
     <generator>gov-ai-news skill</generator>
     <item>
-      <title>上海&quot;云宇星空&quot;规划资源大模型亮相 量子城市探索超大城市空间智能治理</title>
-      <link>https://www.shyp.gov.cn/shypq/xwzx-bmdt/20260915/513451.html</link>
-      <guid isPermaLink="true">https://www.shyp.gov.cn/shypq/xwzx-bmdt/20260915/513451.html</guid>
+      <title>抢抓数智融合机遇 夯实地理信息产业自主创新根基</title>
+      <link>https://finance.people.com.cn/BIG5/n1/2026/0911/c1004-40796963.html</link>
+      <guid isPermaLink="true">https://finance.people.com.cn/BIG5/n1/2026/0911/c1004-40796963.html</guid>
       <category>自然资源 · AI</category>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 +0800</pubDate>
-      <description>上海市杨浦区人民政府（上海市规划和自然资源局相关）：报道全国自然资源领域首个基础大模型&quot;云宇星空&quot;及上海量子城市空间智能建设，依托国土空间规划&quot;一张图&quot;与18年沉淀的600TB空间数据，构建规划资源垂类大模型与&quot;美好生活掌中宝&quot;&quot;星空·执法&quot;等政务智能体，赋能国土空间治理与城市运行。</description>
-    </item>
-    <item>
-      <title>国家网信办发布近期网络安全、数据安全、个人信息保护等领域执法典型案例</title>
-      <link>https://www.hunan.gov.cn/zqt/zcsd/202609/t20260917_34066327.html</link>
-      <guid isPermaLink="true">https://www.hunan.gov.cn/zqt/zcsd/202609/t20260917_34066327.html</guid>
-      <category>中央与部委 · AI 政策</category>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 +0800</pubDate>
-      <description>国家互联网信息办公室（湖南省人民政府门户转载）：通报10起典型案例，其中两起直接涉及生成式人工智能：某小程序未落实AI生成合成内容标识要求、某企业以API中转方式提供生成式AI服务未按规定开展安全评估，并援引《生成式人工智能服务管理暂行办法》《人工智能生成合成内容标识办法》。</description>
-    </item>
-    <item>
-      <title>香港特区政府《2026年施政报告》专章部署&quot;人工智能应用与风险治理&quot;</title>
-      <link>https://www.info.gov.hk/gia/general/202609/16/P2026091600242.htm</link>
-      <guid isPermaLink="true">https://www.info.gov.hk/gia/general/202609/16/P2026091600242.htm</guid>
-      <category>地方政府 · AI 落地</category>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0800</pubDate>
-      <description>香港政府新闻公报（info.gov.hk）：施政报告设&quot;国际创新科技中心&quot;专章，系统部署AI金融/医疗/法律/建筑/交通/社福/旅游应用，拨款3亿元成立&quot;社福AI实验室&quot;，推出&quot;全民AI&quot;培训计划，并制定AI Agent安全管理指引与打击深伪诈骗立法。</description>
-    </item>
-    <item>
-      <title>北京市印发《现代服务业扩能提质实施方案（2026—2030年）》培育基础模型与行业垂类大模型</title>
-      <link>https://www.beijing.gov.cn/zhengce/zhengcefagui/202609/t20260916_4866916.html</link>
-      <guid isPermaLink="true">https://www.beijing.gov.cn/zhengce/zhengcefagui/202609/t20260916_4866916.html</guid>
-      <category>地方政府 · AI 落地</category>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0800</pubDate>
-      <description>北京市人民政府：方案要求培育具有全球影响力的基础模型和行业垂类大模型，开发&quot;智能科学家&quot;，在金融、文旅等垂直领域打造&quot;人工智能+&quot;服务标杆场景，推动智能终端与智能体融合，构建人工智能等新技术应用风险防控体系，并支持算力券、模型券。</description>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0800</pubDate>
+      <description>人民网：人民网报道，2026地理信息技术创新大会（9月9—10日，北京）聚焦地理信息技术与人工智能双向赋能、深度融合。自然资源部信息中心首席专家贾文珏介绍自然资源“一张图”智能化建设成效：已汇聚41.4亿条空间数据，耕地保护监测、地质灾害识别、空间规划评估等时空智能应用已落地部署；与会专家强调以空间智能体为抓手，推动GIS与AI深度融合。</description>
     </item>
   </channel>
 </rss>
