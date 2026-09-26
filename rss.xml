@@ -6,15 +6,15 @@
     <atom:link href="https://pyonline.github.io/gov-ai-news/rss.xml" rel="self" type="application/rss+xml"/>
     <description>每日聚合中国政府部门人工智能相关新闻与政策，重点关注自然资源管理领域</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 19 Sep 2026 09:10:10 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 09:15:47 +0800</lastBuildDate>
     <generator>gov-ai-news skill</generator>
     <item>
-      <title>抢抓数智融合机遇 夯实地理信息产业自主创新根基</title>
-      <link>https://finance.people.com.cn/BIG5/n1/2026/0911/c1004-40796963.html</link>
-      <guid isPermaLink="true">https://finance.people.com.cn/BIG5/n1/2026/0911/c1004-40796963.html</guid>
+      <title>天地图2026版上线——推动地理信息公共服务智能化升级</title>
+      <link>https://ngcc.cn/xwzx/ywcg/202609/t20260924_2693.html</link>
+      <guid isPermaLink="true">https://ngcc.cn/xwzx/ywcg/202609/t20260924_2693.html</guid>
       <category>自然资源 · AI</category>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 +0800</pubDate>
-      <description>人民网：人民网报道，2026地理信息技术创新大会（9月9—10日，北京）聚焦地理信息技术与人工智能双向赋能、深度融合。自然资源部信息中心首席专家贾文珏介绍自然资源“一张图”智能化建设成效：已汇聚41.4亿条空间数据，耕地保护监测、地质灾害识别、空间规划评估等时空智能应用已落地部署；与会专家强调以空间智能体为抓手，推动GIS与AI深度融合。</description>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0800</pubDate>
+      <description>国家基础地理信息中心（自然资源部）：天地图2026版依托大语言模型增加空间推理层，通过智能体集成区域空间格局分析、遥感影像解译等专业模型，开展多模型协同的空间智能推理分析。</description>
     </item>
   </channel>
 </rss>
