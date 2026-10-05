@@ -6,15 +6,7 @@
     <atom:link href="https://pyonline.github.io/gov-ai-news/rss.xml" rel="self" type="application/rss+xml"/>
     <description>每日聚合中国政府部门人工智能相关新闻与政策，重点关注自然资源管理领域</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 26 Sep 2026 09:15:47 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 09:19:28 +0800</lastBuildDate>
     <generator>gov-ai-news skill</generator>
-    <item>
-      <title>天地图2026版上线——推动地理信息公共服务智能化升级</title>
-      <link>https://ngcc.cn/xwzx/ywcg/202609/t20260924_2693.html</link>
-      <guid isPermaLink="true">https://ngcc.cn/xwzx/ywcg/202609/t20260924_2693.html</guid>
-      <category>自然资源 · AI</category>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0800</pubDate>
-      <description>国家基础地理信息中心（自然资源部）：天地图2026版依托大语言模型增加空间推理层，通过智能体集成区域空间格局分析、遥感影像解译等专业模型，开展多模型协同的空间智能推理分析。</description>
-    </item>
   </channel>
 </rss>
