@@ -6,7 +6,15 @@
     <atom:link href="https://pyonline.github.io/gov-ai-news/rss.xml" rel="self" type="application/rss+xml"/>
     <description>每日聚合中国政府部门人工智能相关新闻与政策，重点关注自然资源管理领域</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 05 Oct 2026 09:19:28 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 09:15:33 +0800</lastBuildDate>
     <generator>gov-ai-news skill</generator>
+    <item>
+      <title>“门前三包”有了AI“哨兵” 天河区在5个街道试点AI巡检</title>
+      <link>https://news.dayoo.com/guangzhou/202610/05/139995_55009911.htm</link>
+      <guid isPermaLink="true">https://news.dayoo.com/guangzhou/202610/05/139995_55009911.htm</guid>
+      <category>地方政府 · AI 落地</category>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0800</pubDate>
+      <description>news.dayoo.com：这段时间，依托智慧城管平台和AI算法技术，天河区在天园、沙东、天河南、冼村、猎德5个街道进行试点，开展多轮应用测试，探索以人工智能技术辅助“门前三包”日常巡查 ... date: 24 hours ago</description>
+    </item>
   </channel>
 </rss>
