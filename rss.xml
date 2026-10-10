@@ -6,7 +6,15 @@
     <atom:link href="https://pyonline.github.io/gov-ai-news/rss.xml" rel="self" type="application/rss+xml"/>
     <description>每日聚合中国政府部门人工智能相关新闻与政策，重点关注自然资源管理领域</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 07 Oct 2026 09:13:31 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 09:09:56 +0800</lastBuildDate>
     <generator>gov-ai-news skill</generator>
+    <item>
+      <title>湖北开展地灾防治人工智能应用试点</title>
+      <link>http://zrzyt.hubei.gov.cn/bmdt/zrzyyw/202610/t20261008_6028221.shtml</link>
+      <guid isPermaLink="true">http://zrzyt.hubei.gov.cn/bmdt/zrzyyw/202610/t20261008_6028221.shtml</guid>
+      <category>自然资源 · AI</category>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0800</pubDate>
+      <description>湖北省自然资源厅：《规划》明确，加强地质灾害监测预警。扩大普适型专业监测点覆盖范围，完善地质灾害精细化气象风险预警机制，探索风险区、短临降雨精细化预警模式。</description>
+    </item>
   </channel>
 </rss>
