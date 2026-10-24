@@ -6,15 +6,15 @@
     <atom:link href="https://pyonline.github.io/gov-ai-news/rss.xml" rel="self" type="application/rss+xml"/>
     <description>每日聚合中国政府部门人工智能相关新闻与政策，重点关注自然资源管理领域</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 18 Oct 2026 09:13:26 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 09:16:15 +0800</lastBuildDate>
     <generator>gov-ai-news skill</generator>
     <item>
-      <title>中共中央 国务院关于发展新质生产力的意见</title>
-      <link>https://www.mee.gov.cn/zcwj/zyygwj/202610/t20261014_1182955.shtml</link>
-      <guid isPermaLink="true">https://www.mee.gov.cn/zcwj/zyygwj/202610/t20261014_1182955.shtml</guid>
-      <category>中央与部委 · AI 政策</category>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0800</pubDate>
-      <description>国务院：国务院发布新质生产力意见，设专章“全面实施‘人工智能+’行动”，提出布局国家人工智能行业应用中试基地、推进人工智能改造传统产业，并强调加强人工智能治理。</description>
+      <title>湖南省人民政府关于印发《湖南省自然资源保护利用“十五五”规划》的通知</title>
+      <link>http://www.hunan.gov.cn/hnszf/xxgk/wjk/szfwj/202610/t20261023_34087524.html</link>
+      <guid isPermaLink="true">http://www.hunan.gov.cn/hnszf/xxgk/wjk/szfwj/202610/t20261023_34087524.html</guid>
+      <category>自然资源 · AI</category>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0800</pubDate>
+      <description>湖南省人民政府：湖南省“十五五”自然资源保护利用规划（湘政发〔2026〕15号），专章部署“人工智能+自然资源”行动，提出地质灾害AI预警模型研发应用、AI找矿预测、调查监测“人工智能+”融合创新、生态保护修复“大模型”等任务。</description>
     </item>
   </channel>
 </rss>
