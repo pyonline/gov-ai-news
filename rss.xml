@@ -6,7 +6,15 @@
     <atom:link href="https://pyonline.github.io/gov-ai-news/rss.xml" rel="self" type="application/rss+xml"/>
     <description>每日聚合中国政府部门人工智能相关新闻与政策，重点关注自然资源管理领域</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 08 Nov 2026 09:09:53 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 09:19:26 +0800</lastBuildDate>
     <generator>gov-ai-news skill</generator>
+    <item>
+      <title>视频丨自然资源部：我国初步建成全国地质灾害监测预警网络</title>
+      <link>https://view.inews.qq.com/a/20261106A075H400</link>
+      <guid isPermaLink="true">https://view.inews.qq.com/a/20261106A075H400</guid>
+      <category>自然资源 · AI</category>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0800</pubDate>
+      <description>中央广播电视总台央视新闻：自然资源部中国地质调查局披露，我国已初步建成全国地质灾害监测预警网络，形成“人防+技防”立体化防治格局；通过无人机自动巡航与AI智能分析结合提升复杂山区地灾巡查与隐患识别能力，并基于北斗卫星开展区域短临降雨监测预报。</description>
+    </item>
   </channel>
 </rss>
